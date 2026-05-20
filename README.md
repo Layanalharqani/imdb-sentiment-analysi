@@ -8,6 +8,7 @@ The project compares traditional machine learning models with the ALLAM Large La
 
 ## Results Comparison
 <img src="images/results.png" width="800"/>
+
 ## Models Used
 - Logistic Regression
 - Support Vector Machine (SVM)
