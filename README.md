@@ -1,4 +1,3 @@
-# imdb-sentiment-analysis
 # IMDB Sentiment Analysis
 
 This project focuses on sentiment analysis using the IMDB movie reviews dataset.
