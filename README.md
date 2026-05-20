@@ -4,11 +4,10 @@
 This project focuses on sentiment analysis using the IMDB movie reviews dataset.
 The project compares traditional machine learning models with the ALLAM Large Language Model (LLM) for classifying movie reviews as positive or negative.
 ## System Architecture
-<img src="images/architecture.png" width="800"/>
+![Architecture](architecture.png)
 
 ## Results Comparison
-<img src="images/results.png" width="800"/>
-
+![Results](results.png)
 ## Models Used
 - Logistic Regression
 - Support Vector Machine (SVM)
